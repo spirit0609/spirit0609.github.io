@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>devlopr</title>
+    <title>TeamM</title>
     <description>devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2020 16:44:59 +0900</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2020 16:44:59 +0900</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2020 02:13:21 +0900</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2020 02:13:21 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
 
     

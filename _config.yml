@@ -62,18 +62,18 @@ author_project_details:
     project_description: A Platform built for Hackers and Penetration Testers
     project_url: 'https://hack4r.com'
     visibility: true
-twitter_username: johndoe
+twitter_username: null
 github_username: sujaykundu777
 facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
-hyvor_talk_website_id: 476
-wakatime_username: sujaykundu777
+linkedin_username: null
+behance_username: null
+instagram_username: null
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
+hyvor_talk_website_id: null
+wakatime_username: null
 mailchimp_form_url: >-
   https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 formspree_email: johndoe@gmail.com
